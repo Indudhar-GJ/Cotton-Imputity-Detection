@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cotton-sense",
+  "private_key_id": "71e75761dc1bd5742aa17b61c8f0c74d164952be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsEQNLCs2BOrFY\nH4a+xWQv8YaTVIqU7/yBiS4ELDiurnAKOFPtx/sEm6FI0H8JoZOQKp1g5wZjJjHR\noDzw9+OUh4kEz1D85fahBuvOEvI0zJ+aqg9wAHe4Y3qpyctt/+Dn6d38OcFAHwRd\nwGp+hNbw6ajJq55dKoYEGnalOD14Xsqevwc7HItl4suWKjS3Qu2mEuqSCXYGoY2L\nij1dn9sHR6Rpnac6xQfOF0WUpLGmMirchmBEvtzvR2khgApvq2T5fxAHW6So2Ff6\nIyJD8y8b55q0Ci9+ICR/+mzf+GHWOTnrJBU3cNLxceC3CkcpTqU2SSqsEKc70DAc\n81iSYlTbAgMBAAECggEAD2SNkF2HiTYzHkiNDoJBwQjmJUZMssqN+Bf0Y2WCA/J7\n+GtrQAbXXbqpy4XyD25XxpphWNq3V2WtKEJ29obz4i+Gd5qE9Wgsejb7H698i8el\nxuQhcb9roQsD3VjoQiTAEyR4pN3qfAN/qalofX1XGIHhWnqStg/zTD5X0ID+/XEL\n4sMPe1RZMnZvtuW7IJ7uv7yJ7jaFmTRBN+LEV0gl6RIP9wECBLZb/xBH4Wk2sqar\nJZ/DiWv92ahh6dec1tYQ6f+8/ro79jt/6gbiCilBy3lKrmkNYw23SP4OevoSzQcx\nheEppvkXDqo9WvuIP8XMzTdMO63a3MEntd3Yv8QupQKBgQDV4sK0w1fz/FFkLojv\ngWWB9pczj4tAuaimFFG17hcv5x0QlDOK39EX8rYQhnvSkV1zavFpPxcpmW5iPzLs\nVtJ+Gz1W5WEeyqfZpt9j4H2ZicLz/u9Dg0PgWiyVjwVS1c/s7cGoCYO9MshOGh1x\n7RjmxQ3zAaww+K5FL355otC1bwKBgQDN8kkH3Shv9k0nvcpboavB7G1Im0sIrgnZ\nesIhChQ2i56Z0BasZ0dsIW9qU0yE4CeyK1YUmNGv3zyJPFgqBRI67XPm1FyMs/Pd\nmdQj/qrzs8pcJ8YGNeuDJaLl2Q7PYJ6xgq2Sh17PD9+XspDkx/jKsIqD3n7P2b0+\nFh7gA+XZVQKBgCD5rPshgtXi+MlxQztpv7Shx/3zC40XEqFIULCz3G9OOnTr5GZs\ny1fd26QAl+aG8tlwi3emenO3bAVJqRg26oz2tiZHhwmwROCRka9cVQDu9FeZ3lmS\nS0yzmlwUiMWUoVHt9gVqMh1hTvB7pj6CR2yMxPHKODn0nSmdgOpP582RAoGAEQqe\nbm8nfHRGGCbFSuXK36YfuOVYxSQZnoxg6fj6iTTub83fQm7dYx41KPgxmcEup7ic\nS+IFX+c6DCUZKoj25Ddn4s7pxZ7SbCDhhAT7wmS7Nvr3kOX/Uf/YReq7Jf/ZwdiN\nYlWfS8UFfHkDMls1xBftrlHH7o0W8r9D2MeZym0CgYA4wfUXY0dCZxJY8EYqVLP3\ngcnt3FzIO77AB3Oe1DOMEMmcFQRruUwIKvHrCSI+SU8ycyB5zzOffXLDhWk+cH3f\nCV8DQtRNiQHa23+H/mefVM428zm7+MmU6UuP/xLJo1uJkeC1mpYYsae2De6tTZmS\nxq5zRrqg+lnQk4O3H/xJIA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@cotton-sense.iam.gserviceaccount.com",
+  "client_id": "108329208914007135578",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40cotton-sense.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

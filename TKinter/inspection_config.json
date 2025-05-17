@@ -1,0 +1,19 @@
+{
+    "camera_params": {
+        "AcquisitionLineRateEnable": true,
+        "ReverseX": false,
+        "GammaEnable": true,
+        "HueEnable": true,
+        "SaturationEnable": true,
+        "PixelFormat": 17301513,
+        "Exposure": 5000,
+        "AcquisitionLineRate": 10000,
+        "AutoExposureTimeLowerLimit": 100,
+        "AutoExposureTimeUpperLimit": 10000,
+        "Width": 1920,
+        "Height": 1080,
+        "BalanceWhiteAuto": 1,
+        "GammaSelector": 2
+    },
+    "model_path": null
+}

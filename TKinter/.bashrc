@@ -1,0 +1,6 @@
+export QT_QPA_PLATFORM=offscreen
+export QT_QPA_PLATFORM=offscreen
+export QT_QPA_PLATFORM=offscreen
+export QT_QPA_PLATFORM=offscreen
+export QT_QPA_PLATFORM=offscreen
+export QT_QPA_PLATFORM=offscreen

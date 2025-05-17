@@ -1,0 +1,11 @@
+{
+    "train_script": "/home/cotseeds11/Desktop/ctn-hybrid/hybrid-seg/train.py",
+    "dataset_path": [
+        [
+            "/home/cotseeds11/Desktop/Cotseeds_Final/Code/clicked_img_11032026_v3"
+        ]
+    ],
+    "epochs": 50,
+    "batch_size": 16,
+    "date": "2025-04-09 12:49:12"
+}

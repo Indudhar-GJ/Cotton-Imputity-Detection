@@ -1,0 +1,18 @@
+{
+    "camera_params": {
+        "AcquisitionLineRateEnable": true,
+        "ReverseX": false,
+        "GammaEnable": true,
+        "HueEnable": false,
+        "SaturationEnable": true,
+        "PixelFormat": 17301513,
+        "Exposure": 5000,
+        "AcquisitionLineRate": 10000,
+        "AutoExposureTimeLowerLimit": 100,
+        "AutoExposureTimeUpperLimit": 10000,
+        "Width": 1920,
+        "Height": 1080,
+        "BalanceWhiteAuto": 1
+    },
+    "model_path": "/home/cotseeds11/Desktop/Cotseeds_Final/Code/yolov8-seg-bounding-box-v12-6-fp16.engine"
+}

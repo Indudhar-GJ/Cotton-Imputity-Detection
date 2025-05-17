@@ -1,0 +1,18 @@
+names:
+- cloth
+- conveyor belt
+- cotton
+- jute
+- packet
+- thread
+- wood
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: clicked_img_11032026
+  url: https://universe.roboflow.com/hybrid-seg1/clicked_img_11032026/dataset/3
+  version: 3
+  workspace: hybrid-seg1
+test: ../test/images
+train: ../train/images
+val: ../valid/images
