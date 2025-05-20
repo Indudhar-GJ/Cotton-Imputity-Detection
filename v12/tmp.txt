@@ -1,0 +1,16 @@
+camera_params = {
+    "Exposure": 50,
+    "Acquisition Line Rate Enable": 100,
+    "Acquisition Line Rate": 75,
+    "AutoExposureTimeLowerLimit": 75,
+    "AutoExposureTimeUpperLimit": 75,
+    "Width": 75,
+    "Height": 75,
+    "ReverseX": 75,
+    "BalanceWhiteAuto": 75,
+    "PixelFormat": 75,
+    "GammaEnable": 75,
+    "GammaSelector": 75,
+    "HueEnable": 75,
+    "SaturationEnable": 75,
+}

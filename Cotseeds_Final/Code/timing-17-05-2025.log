@@ -1,0 +1,82 @@
+2025-05-16 19:38:46,746 - INFO - Started: IC
+2025-05-16 19:38:46,748 - INFO - Completed: IC in 1.475 ms
+2025-05-16 19:38:47,016 - INFO - Started: Complete Image Procesing
+2025-05-16 19:38:47,117 - INFO - Started: Split Images
+2025-05-16 19:38:47,134 - INFO - Completed: Split Images in 17.105 ms
+2025-05-16 19:38:47,143 - INFO - Started: Batch Inference
+2025-05-16 19:38:48,811 - INFO - Completed: Batch Inference in 1667.715 ms
+2025-05-16 19:38:48,811 - INFO - Started: Result Processing
+2025-05-16 19:38:48,823 - INFO - Completed: Result Processing in 11.743 ms
+2025-05-16 19:38:48,829 - INFO - Completed: Complete Image Procesing in 1812.636 ms
+2025-05-16 19:38:48,829 - INFO - Started: IC
+2025-05-16 19:38:48,830 - INFO - Completed: IC in 0.941 ms
+2025-05-16 19:38:49,077 - INFO - Started: Complete Image Procesing
+2025-05-16 19:38:49,178 - INFO - Started: Split Images
+2025-05-16 19:38:49,193 - INFO - Completed: Split Images in 15.624 ms
+2025-05-16 19:38:49,201 - INFO - Started: Batch Inference
+2025-05-16 19:38:49,420 - INFO - Completed: Batch Inference in 219.029 ms
+2025-05-16 19:38:49,421 - INFO - Started: Result Processing
+2025-05-16 19:38:49,435 - INFO - Completed: Result Processing in 14.111 ms
+2025-05-16 19:38:49,441 - INFO - Completed: Complete Image Procesing in 363.696 ms
+2025-05-16 19:38:49,441 - INFO - Started: IC
+2025-05-16 19:38:49,442 - INFO - Completed: IC in 0.949 ms
+2025-05-16 19:38:49,689 - INFO - Started: Complete Image Procesing
+2025-05-16 19:38:49,789 - INFO - Started: Split Images
+2025-05-16 19:38:49,801 - INFO - Completed: Split Images in 11.847 ms
+2025-05-16 19:38:49,806 - INFO - Started: Batch Inference
+2025-05-16 19:38:50,013 - INFO - Completed: Batch Inference in 207.222 ms
+2025-05-16 19:38:50,014 - INFO - Started: Result Processing
+2025-05-16 19:38:50,029 - INFO - Completed: Result Processing in 14.919 ms
+2025-05-16 19:38:50,035 - INFO - Completed: Complete Image Procesing in 346.650 ms
+2025-05-16 19:38:50,035 - INFO - Started: IC
+2025-05-16 19:38:50,036 - INFO - Completed: IC in 0.996 ms
+2025-05-16 19:38:50,283 - INFO - Started: Complete Image Procesing
+2025-05-16 19:38:50,384 - INFO - Started: Split Images
+2025-05-16 19:38:50,396 - INFO - Completed: Split Images in 12.363 ms
+2025-05-16 19:38:50,402 - INFO - Started: Batch Inference
+2025-05-16 19:38:50,602 - INFO - Completed: Batch Inference in 199.980 ms
+2025-05-16 19:38:50,602 - INFO - Started: Result Processing
+2025-05-16 19:38:50,615 - INFO - Completed: Result Processing in 12.732 ms
+2025-05-16 19:38:50,623 - INFO - Completed: Complete Image Procesing in 339.225 ms
+2025-05-16 19:38:50,623 - INFO - Started: IC
+2025-05-16 19:38:50,624 - INFO - Completed: IC in 1.030 ms
+2025-05-16 19:38:50,872 - INFO - Started: Complete Image Procesing
+2025-05-16 19:38:50,973 - INFO - Started: Split Images
+2025-05-16 19:38:50,985 - INFO - Completed: Split Images in 12.313 ms
+2025-05-16 19:38:50,990 - INFO - Started: Batch Inference
+2025-05-16 19:38:51,202 - INFO - Completed: Batch Inference in 211.376 ms
+2025-05-16 19:38:51,202 - INFO - Started: Result Processing
+2025-05-16 19:38:51,217 - INFO - Completed: Result Processing in 14.682 ms
+2025-05-16 19:38:51,224 - INFO - Completed: Complete Image Procesing in 352.002 ms
+2025-05-16 19:38:51,224 - INFO - Started: IC
+2025-05-16 19:38:51,226 - INFO - Completed: IC in 1.068 ms
+2025-05-16 19:38:51,472 - INFO - Started: Complete Image Procesing
+2025-05-16 19:38:51,573 - INFO - Started: Split Images
+2025-05-16 19:38:51,585 - INFO - Completed: Split Images in 11.749 ms
+2025-05-16 19:38:51,590 - INFO - Started: Batch Inference
+2025-05-16 19:38:51,778 - INFO - Completed: Batch Inference in 188.144 ms
+2025-05-16 19:38:51,779 - INFO - Started: Result Processing
+2025-05-16 19:38:51,791 - INFO - Completed: Result Processing in 12.523 ms
+2025-05-16 19:38:51,798 - INFO - Completed: Complete Image Procesing in 325.939 ms
+2025-05-16 19:38:51,798 - INFO - Started: IC
+2025-05-16 19:38:51,799 - INFO - Completed: IC in 1.028 ms
+2025-05-16 19:38:52,053 - INFO - Started: Complete Image Procesing
+2025-05-16 19:38:52,153 - INFO - Started: Split Images
+2025-05-16 19:38:52,165 - INFO - Completed: Split Images in 11.784 ms
+2025-05-16 19:38:52,171 - INFO - Started: Batch Inference
+2025-05-16 19:38:52,379 - INFO - Completed: Batch Inference in 208.548 ms
+2025-05-16 19:38:52,380 - INFO - Started: Result Processing
+2025-05-16 19:38:52,393 - INFO - Completed: Result Processing in 13.524 ms
+2025-05-16 19:38:52,399 - INFO - Completed: Complete Image Procesing in 346.310 ms
+2025-05-16 19:38:52,399 - INFO - Started: IC
+2025-05-16 19:38:52,400 - INFO - Completed: IC in 1.010 ms
+2025-05-16 19:38:52,647 - INFO - Started: Complete Image Procesing
+2025-05-16 19:38:52,747 - INFO - Started: Split Images
+2025-05-16 19:38:52,759 - INFO - Completed: Split Images in 11.875 ms
+2025-05-16 19:38:52,765 - INFO - Started: Batch Inference
+2025-05-16 19:38:52,971 - INFO - Completed: Batch Inference in 206.111 ms
+2025-05-16 19:38:52,972 - INFO - Started: Result Processing
+2025-05-16 19:38:52,984 - INFO - Completed: Result Processing in 12.649 ms
+2025-05-16 19:38:52,990 - INFO - Completed: Complete Image Procesing in 343.720 ms
+2025-05-16 19:38:52,991 - INFO - Started: IC
+2025-05-16 19:38:52,992 - INFO - Completed: IC in 1.072 ms
